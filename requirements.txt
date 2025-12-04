@@ -1,0 +1,5 @@
+flask
+redis
+qrcode[pil]
+python-dotenv
+gunicorn
