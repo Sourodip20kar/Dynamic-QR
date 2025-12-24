@@ -2,3 +2,5 @@
 venv/
 __pycache__/
 *.pyc
+
+#redis://red-d4or9j6uk2gs738150eg:6379
