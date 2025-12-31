@@ -39,7 +39,7 @@ def status():
 
 # app.py (Update this function)
 
-@app.route("/christmas")
+@app.route("/newyear")
 def christmas_theme():
     return """
     <!DOCTYPE html>
@@ -122,7 +122,7 @@ def christmas_theme():
     <body>
 
         <video autoplay loop muted playsinline id="bg-video">
-            <source src="/static/christmas.mp4" type="video/mp4">
+            <source src="/static/new_year.mp4" type="video/mp4">
             Your browser does not support HTML5 video.
         </video>
 
